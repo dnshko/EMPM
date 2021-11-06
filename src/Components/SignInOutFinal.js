@@ -193,7 +193,7 @@ export default function SigninoutFinal() {
         style={{ backgroundColor: "#4bb34b", float: "right" }}
       >
         <Link style={{ color: "white" }} className="nav-link" to="/admin">
-          Admin
+          Admin OMG
         </Link>
         {/* <Link className='nav-link' to='/update'>update</Link>
          */}
